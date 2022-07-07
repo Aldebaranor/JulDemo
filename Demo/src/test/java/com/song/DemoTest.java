@@ -5,6 +5,6 @@ package com.song;
  * @date 2022/7/6 17:50
  */
 
-
+@SpringBootTest
 public class DemoTest {
 }
